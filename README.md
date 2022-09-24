@@ -19,7 +19,7 @@ To download the package, either fork this github repo or simply use Pypi via pip
 github repo : https://github.com/SDP010/SudokuSolver
 
 ```
-$ pip install PySudokuSolverSDP
+$ pip install pyslvSudoku
 ```
 
 ### Importing the package
