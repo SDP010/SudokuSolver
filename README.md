@@ -15,6 +15,9 @@ Bellow is the description of how to use this package and use it for solving a su
 ###  Getting it
 
 To download the package, either fork this github repo or simply use Pypi via pip.
+
+github repo : https://github.com/SDP010/SudokuSolver
+
 ```
 $ pip install PySudokuSolverSDP
 ```
